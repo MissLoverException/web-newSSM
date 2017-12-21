@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-newSSM:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="web-newSSM-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="web-newSSM:war exploded" />
+    </root>
+  </artifact>
+</component>
